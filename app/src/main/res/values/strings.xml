@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Show Contact</string>
+    <string name="button_contact">Contacts</string>
+    <string name="button_history">Leave req and History</string>
+    <string name="admin_name">Administrator</string>
+    <string name="Create_Leave_Request">Create Leave Request</string>
+    <string name="number_of_days">Number Of days</string>
+    <string name="enter_start_date">Enter Start Date</string>
+    <string name="manger">Manger</string>
+    <string name="enter_your_reason">Enter Your Reason</string>
+    <string name="submit">Submit</string>
+    <string name="contact_details">Contact Details</string>
+    <string name="img">Img</string>
+    <string name="name_detail">Name</string>
+    <string name="title_detail">Title</string>
+    <string name="number_detail">Number</string>
+    <string name="department_detail">HR Department</string>
+    <string name="reports_detail">Reports To Mr.Ahmed</string>
+    <string name="leaves_history">Leaves History</string>
+    <string name="add_button">Add Button</string>
+    <string name="tv_login">Login</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="enter_passowrd">Enter Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="display_reason">Reason</string>
+    <string name="display_manger">My Manager</string>
+    <string name="display_start_date">Start Date</string>
+    <string name="display_status">Status : Accepted</string>
+    <string name="details_img">Profile Img</string>
+    <string name="details_name">Name</string>
+    <string name="details_title">Title</string>
+    <string name="details_number">Number</string>
+    <string name="details_call">Call</string>
+    <string name="btn_create_history">History</string>
+
+</resources>
